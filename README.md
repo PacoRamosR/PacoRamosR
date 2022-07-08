@@ -6,7 +6,7 @@ Hi there, I'm Paco"</a> 👋
 I'm a Full-Stack Web Developer 💻!
 </h2> 
 
-I recently finish my studies ina bootcamp and Im looking for a job where I can use my skills and also grow up new ones.
+Recently finished my studies in a programming bootcamp and Im looking for a job where I can use my skills and also grow up new ones.
 
 ### 🤝 Connect with me:
 
