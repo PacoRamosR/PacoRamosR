@@ -1,23 +1,12 @@
-### Hi there and welcomme to my github 👋
-
-My name is Paco and I am a spanish developer
-
-
-
-
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm Paco"</a> 👋
 </h3>
 
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I recently finish my studies ina bootcamp and Im looking for a job where I can use my skills and also grow up new ones.
 
 ### 🤝 Connect with me:
 
