@@ -11,4 +11,4 @@ bootstrap css3 git heroku html5 javascript mysql nodejs postgresql rails ruby sq
 
 
 
-<a href=”https://www.linkedin.com/in/francisco-ramos-ruiz-a99230127/"><img align=”left” src=”https://raw.githubusercontent.com/PacoRamosR/PacoRamosR/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/francisco-ramos-ruiz-a99230127/"><img align=”left” src=”https://raw.githubusercontent.com/PacoRamosR/PacoRamosR/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
