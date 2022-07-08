@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there and welcomme to my github 👋
+
+My name is Paco and I am a spanish developer
 
 
+Languages and Tools:
+bootstrap css3 git heroku html5 javascript mysql nodejs postgresql rails ruby sqlite
 
-<a href="https://www.learnenough.com/certificates/Francisco_Ramos"><img src="https://www.learnenough.com/certificates/Francisco_Ramos/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/Francisco_Ramos"><img src="https://www.learnenough.com/certificates/Francisco_Ramos/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PacoRamosR&layout=compact)](https://github.com/yushi1007)
