@@ -21,14 +21,13 @@ Recently finished my studies in a programming bootcamp and Im looking for a job 
 
 - final arrange of my wine-detective app
 - Create a payment  rails app (kaimonofy)
-- My React skills
+- My Vue.js skills
 
 
 ## 🌱 I'm currently learning
 
-- React Native
-- Python
 - Vue.js
+- Python
  
 
 ## 💼 Technical Skills
